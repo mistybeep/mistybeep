@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mistybeep
+- 👀 I’m interested in wireless communication
+- 🌱 I’m currently learning Deep Learning for wireless communication
